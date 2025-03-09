@@ -1,7 +1,10 @@
-# Branching-Consiousness
-This paper proposes a mathematical model for the Branching Repository Reality Theory
-(BRRT), which describes consciousness as a wave function interacting with reality through quantum
-superposition and collapse. We present an equation modeling reality selection as a probability
-function and explore experimental methods for testing this theory. We discuss links to existing
-theories such as quantum mechanics, the Many-Worlds Interpretation, and consciousness studies,
-outlining a framework for future empirical validation
+# Wave-Form Consciousness and Reality Merging
+
+**Author:** Branden Anasenes  
+**Email:** [b.anasenes@pm.me](mailto:b.anasenes@pm.me)  
+**ORCID:** [0009-0005-1580-9026](https://orcid.org/0009-0005-1580-9026)  
+**Zenodo DOI:** (https://zenodo.org/badge/DOI/10.5281/zenodo.14996856.svg)(https://doi.org/10.5281/zenodo.14996856)  
+**Preprint PDF:** [Download Here](./branching_consciousness_preprint.pdf)
+
+## Overview
+This research explores the Branching Repository Reality Theory (BRRT), proposing a quantum-based model for consciousness and reality selection.
