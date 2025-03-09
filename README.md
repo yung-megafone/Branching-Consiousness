@@ -17,7 +17,7 @@ If using this work, please cite:
   author = {Branden Anasenes},
   title = {Wave-Form Consciousness and Reality Merging: A Quantum Expansion of the Branching Repository Reality Theory},
   journal = {Zenodo Preprint},
-  year = {2024},
-  doi = {10.5281/zenodo.xxxxxxx}
+  year = {2025},
+  doi = {10.5281/zenodo.14996856}
 }
 ```
