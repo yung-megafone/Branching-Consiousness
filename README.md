@@ -1,4 +1,4 @@
-# Wave-Form Consciousness and Reality Merging
+# Wave-Form Consciousness and Reality Selection
 
 **Author:** Branden Anasenes  
 **ORCID:** [0009-0005-1580-9026](https://orcid.org/0009-0005-1580-9026)  
