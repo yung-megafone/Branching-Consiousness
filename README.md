@@ -12,7 +12,7 @@ This research explores the Branching Repository Reality Theory (BRRT), proposing
 If using this work, please cite:
 
 ```
-@article{Anasenes2024,
+@article{Anasenes2025,
   author = {Branden Anasenes},
   title = {Wave-Form Consciousness and Reality Merging: A Quantum Expansion of the Branching Repository Reality Theory},
   journal = {Zenodo Preprint},
